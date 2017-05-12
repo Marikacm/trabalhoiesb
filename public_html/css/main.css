@@ -1,0 +1,51 @@
+.placeholders {
+  margin-left: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-top: 20px;
+  position: relative;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+.thumb {
+    float: left;
+    margin-bottom: 40px;
+    margin-left: 5px;
+    height: 150px;
+    display: compact;
+}
+.curso{
+    line-height: 2;
+}
+.input[type=text]{
+    margin: 7px 7px;     
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
